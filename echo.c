@@ -1,5 +1,5 @@
 /**
- * CS1010 Semester 1 AY20/21
+ * CS1010 Semester 2 AY20/21
  * Exercise 0: Echo
  *
  * Read in an integer and print it on the screen.
