@@ -1,5 +1,5 @@
 /**
- * CS1010 Semester 1 AY20/21
+ * CS1010 Semester 2 AY20/21
  * Exercise 0: Quadratic
  *
  * Read in three doubles, a, b, and c, that represents the quadratic
